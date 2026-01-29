@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <div className="m-4 space-y-4 bg-white p-4">
+    <div className="m-4 space-y-4 bg-black p-4">
 
       <div className="text-center p-4 bg-white text-black font-bold text-2xl">
         Meus carros
